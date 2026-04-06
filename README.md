@@ -1,6 +1,11 @@
 # Project Title - Comprehensive Financial Data Analysis
 ## Project 1 - Building Financial Reports
 Analyzing the profitability and leverage of companies from various industries by computing and visualizing financial ratios. Answer questions based on the analysis.
+## Project 2 - Detecting Anomalous Transactions
+## Project 3 - Enriching Stock Market Data using OpenAI API
+## Project 4 - Financial Analysis using KNIME
+## Project 5 - Mortage Trading Analysis using Power BI 
+## Project 6 - Net Revenue Management using Microsoft Excel
 
 # Project 1 - Building Financial Reports
 # Financial Terminologies - 

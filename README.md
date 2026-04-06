@@ -1,5 +1,4 @@
-# Project Title - Comprehensive Financial Data Analysis
-## Project 1 - Building Financial Reports
+## Project 1 - Building Financial Reports using Python and Seaborn
 Analyzing the profitability and leverage of companies from various industries by computing and visualizing financial ratios. Answer questions based on the analysis.
 ## Project 2 - Detecting Anomalous Transactions
 ## Project 3 - Enriching Stock Market Data using OpenAI API

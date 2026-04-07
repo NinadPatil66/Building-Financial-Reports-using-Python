@@ -22,3 +22,5 @@ Analyzing the profitability and leverage of companies from various industries by
 
 # Tech Stack - 
 1) Python - pandas, seaborn, numpy
+
+
